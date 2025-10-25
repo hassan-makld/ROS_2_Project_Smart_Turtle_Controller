@@ -1,0 +1,33 @@
+[0.424s] Invoking command in '/home/sonystark/smart_turtle_ws/src/smart_turtle_ws': PYTHONPATH=/home/sonystark/smart_turtle_ws/build/smart_turtle_ws/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/sonystark/smart_turtle_ws/install/smart_turtle_ws/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../build/smart_turtle_ws build --build-base /home/sonystark/smart_turtle_ws/build/smart_turtle_ws/build install --record /home/sonystark/smart_turtle_ws/build/smart_turtle_ws/install.log --single-version-externally-managed install_data
+[0.596s] running egg_info
+[0.596s] creating ../../build/smart_turtle_ws/smart_turtle_ws.egg-info
+[0.596s] writing ../../build/smart_turtle_ws/smart_turtle_ws.egg-info/PKG-INFO
+[0.596s] writing dependency_links to ../../build/smart_turtle_ws/smart_turtle_ws.egg-info/dependency_links.txt
+[0.597s] writing entry points to ../../build/smart_turtle_ws/smart_turtle_ws.egg-info/entry_points.txt
+[0.597s] writing requirements to ../../build/smart_turtle_ws/smart_turtle_ws.egg-info/requires.txt
+[0.597s] writing top-level names to ../../build/smart_turtle_ws/smart_turtle_ws.egg-info/top_level.txt
+[0.597s] writing manifest file '../../build/smart_turtle_ws/smart_turtle_ws.egg-info/SOURCES.txt'
+[0.598s] reading manifest file '../../build/smart_turtle_ws/smart_turtle_ws.egg-info/SOURCES.txt'
+[0.598s] writing manifest file '../../build/smart_turtle_ws/smart_turtle_ws.egg-info/SOURCES.txt'
+[0.598s] running build
+[0.598s] running build_py
+[0.598s] creating /home/sonystark/smart_turtle_ws/build/smart_turtle_ws/build
+[0.598s] creating /home/sonystark/smart_turtle_ws/build/smart_turtle_ws/build/lib
+[0.598s] creating /home/sonystark/smart_turtle_ws/build/smart_turtle_ws/build/lib/smart_turtle_ws
+[0.598s] copying smart_turtle_ws/__init__.py -> /home/sonystark/smart_turtle_ws/build/smart_turtle_ws/build/lib/smart_turtle_ws
+[0.599s] running install
+[0.599s] running install_lib
+[0.599s] creating /home/sonystark/smart_turtle_ws/install/smart_turtle_ws/lib/python3.10/site-packages/smart_turtle_ws
+[0.599s] copying /home/sonystark/smart_turtle_ws/build/smart_turtle_ws/build/lib/smart_turtle_ws/__init__.py -> /home/sonystark/smart_turtle_ws/install/smart_turtle_ws/lib/python3.10/site-packages/smart_turtle_ws
+[0.600s] byte-compiling /home/sonystark/smart_turtle_ws/install/smart_turtle_ws/lib/python3.10/site-packages/smart_turtle_ws/__init__.py to __init__.cpython-310.pyc
+[0.600s] running install_data
+[0.600s] creating /home/sonystark/smart_turtle_ws/install/smart_turtle_ws/share/ament_index
+[0.600s] creating /home/sonystark/smart_turtle_ws/install/smart_turtle_ws/share/ament_index/resource_index
+[0.600s] creating /home/sonystark/smart_turtle_ws/install/smart_turtle_ws/share/ament_index/resource_index/packages
+[0.600s] copying resource/smart_turtle_ws -> /home/sonystark/smart_turtle_ws/install/smart_turtle_ws/share/ament_index/resource_index/packages
+[0.600s] copying package.xml -> /home/sonystark/smart_turtle_ws/install/smart_turtle_ws/share/smart_turtle_ws
+[0.600s] running install_egg_info
+[0.602s] Copying ../../build/smart_turtle_ws/smart_turtle_ws.egg-info to /home/sonystark/smart_turtle_ws/install/smart_turtle_ws/lib/python3.10/site-packages/smart_turtle_ws-0.0.0-py3.10.egg-info
+[0.602s] running install_scripts
+[0.617s] writing list of installed files to '/home/sonystark/smart_turtle_ws/build/smart_turtle_ws/install.log'
+[0.634s] Invoked command in '/home/sonystark/smart_turtle_ws/src/smart_turtle_ws' returned '0': PYTHONPATH=/home/sonystark/smart_turtle_ws/build/smart_turtle_ws/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/sonystark/smart_turtle_ws/install/smart_turtle_ws/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../build/smart_turtle_ws build --build-base /home/sonystark/smart_turtle_ws/build/smart_turtle_ws/build install --record /home/sonystark/smart_turtle_ws/build/smart_turtle_ws/install.log --single-version-externally-managed install_data
